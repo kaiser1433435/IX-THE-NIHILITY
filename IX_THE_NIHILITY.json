@@ -1,0 +1,25 @@
+{
+  "manifest": {
+    "author": "KAISER",
+    "version": "0.0.1",
+    "transparency_mode": 3,
+    "name": "IX THE NIHILITY"
+  },
+  "background": {
+    "url": "https://cdn.discordapp.com/attachments/1335775821499207815/1343253888899350679/Untitled518_20250224000341.png?ex=67bc9a2b&is=67bb48ab&hm=875b3cbb2ec4aa5fec56637499bdf5dc26a2039a4152cccffed75a6771878fae&",
+    "overlay_alpha": 160
+  },
+  "simple_colors": {
+    "accent": -2255617,
+    "mention_highlight": 2076667636
+  },
+  "colors": {
+    "uikit_btn_bg_color_selector_red": -4038938,
+    "link": -2515975
+  },
+  "drawable_tints": {
+    "ic_status_online_16dp": -2383623,
+    "ic_status_dnd_16dp": -7261521,
+    "ic_status_idle_16dp": -4227105
+  }
+}
