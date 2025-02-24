@@ -2,12 +2,12 @@
   "manifest": {
     "author": "KAISER",
     "version": "0.0.1",
-    "transparency_mode": 3,
     "name": "IX THE NIHILITY",
-    "updater": "https://raw.githubusercontent.com/kaiser1433435/IX-THE-NIHILITY/refs/heads/main/IX_THE_NIHILITY.json"
+    "updater": "https://raw.githubusercontent.com/kaiser1433435/IX-THE-NIHILITY/refs/heads/main/IX_THE_NIHILITY.json",
+    "transparency_mode": 3
   },
   "background": {
-    "url": "https://raw.githubusercontent.com/kaiser1433435/nihility-wallpaperrr/refs/heads/main/nihilityyy.png",
+    "url": "https://cdn.discordapp.com/attachments/1335775821499207815/1343504534512861225/Untitled518_20250224164532.png?ex=67bd839a&is=67bc321a&hm=4079cb72aae0a89db452b9c3541cc0d18c7ad48d805458b396ac8441037ed523&",
     "overlay_alpha": 160
   },
   "simple_colors": {
