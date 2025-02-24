@@ -7,12 +7,18 @@
     "transparency_mode": 3
   },
   "background": {
-    "url": "https://cdn.discordapp.com/attachments/1335775821499207815/1343504534512861225/Untitled518_20250224164532.png?ex=67bd839a&is=67bc321a&hm=4079cb72aae0a89db452b9c3541cc0d18c7ad48d805458b396ac8441037ed523&",
+    "url": "https://raw.githubusercontent.com/kaiser1433435/nihility-wallpaperrr/refs/heads/main/TRUE%20NIHILITY.png",
     "overlay_alpha": 160
   },
   "simple_colors": {
     "accent": -2255617,
-    "mention_highlight": 2076667636
+    "mention_highlight": 2076667636,
+    "background": 0,
+    "background_secondary": 0,
+    "input_background": 5198940,
+    "active_channel": -1612334342,
+    "statusbar": 2105893,
+    "blocked_bg": 0
   },
   "colors": {
     "uikit_btn_bg_color_selector_red": -4038938,
